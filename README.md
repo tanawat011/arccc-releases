@@ -11,7 +11,6 @@ Postman and Apidog. Everything stays on your computer: no account, no cloud.
 | Mac with Apple silicon (M1, M2, M3, M4) | `Arccc_<version>_aarch64.dmg` |
 | Mac with Intel | `Arccc_<version>_x64.dmg` |
 | Windows 10 / 11 | `Arccc_<version>_x64-setup.exe` — or `Arccc_<version>_x64_portable.zip` to run without installing |
-| Command line (Node 22.8 or later) | `arccc-<version>.mjs` — runs collections and flows in a terminal or CI |
 
 Not sure which Mac you have? Apple menu → About This Mac: "Chip Apple M…" is Apple silicon, "Processor … Intel" is Intel.
 
